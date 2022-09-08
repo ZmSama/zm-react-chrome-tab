@@ -8,10 +8,10 @@
   "files": [
     "dist"
   ],
-   "homepage": "https://github.com/honghuangdc/soybean-admin-tab#readme",
+   "homepage": "https://github.com/ZmSama/zm-react-chrome-tab/blob/main/README.md",
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/honghuangdc/soybean-admin-tab.git"
+      "url": "https://github.com/ZmSama/zm-react-chrome-tab"
   },
   "main": "./dist/index.js",
   "module": "./dist/index.js",
