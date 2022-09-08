@@ -3,10 +3,9 @@
 
 ## Getting Started
 ### 第一步
-> yarn add zm-react-chrome-tab 
+> yarn add zm-react-chrome-tab
 ----
 > npm i zm-react-chrome-tab
-
 ### 第二步
 ```javascript
 	import { ChromeTab } from "zm-react-chrome-tab"
@@ -29,3 +28,6 @@
 |close|关闭方法|()=>void||
 |onClick|点击方法|()=>void||
 
+## 效果展示
+![](README_files/2.jpg)
+![](README_files/1.jpg)

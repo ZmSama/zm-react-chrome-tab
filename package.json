@@ -21,6 +21,13 @@
       "require": "./dist/index.js"
     }
   },
+  "keywords": [
+      "react",
+      "tab",
+      "typescript",
+      "styled-components",
+      "vite"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
