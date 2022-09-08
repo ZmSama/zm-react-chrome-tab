@@ -1,0 +1,45 @@
+{
+  "name": "zm-react-chrome-tab",
+  "version": "0.0.2",
+  "author": "ZmSama",
+  "description": "一个react版本的谷歌风格的tab组件、参考Vue版本的soybean admin tab",
+  "license": "MIT",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+   "homepage": "https://github.com/honghuangdc/soybean-admin-tab#readme",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/honghuangdc/soybean-admin-tab.git"
+  },
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/index.js"
+    }
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@types/styled-components": "^5.1.26",
+    "colord": "^2.9.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "styled-components": "^5.3.5",
+    "vite-plugin-dts": "^1.4.1",
+    "zm-react-chrome-tab": "^0.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.1.0",
+    "typescript": "^4.6.4",
+    "vite": "^3.1.0"
+  }
+}
