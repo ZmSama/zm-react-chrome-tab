@@ -1,6 +1,6 @@
 {
   "name": "zm-react-chrome-tab",
-  "version": "1.0.0",
+  "version": "0.0.4",
   "author": "ZmSama",
   "description": "一个react版本的谷歌风格的tab组件、参考Vue版本的soybean admin tab",
   "license": "MIT",
